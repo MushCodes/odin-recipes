@@ -1,0 +1,16 @@
+h1 {
+    color: orange;
+    text-decoration: underline;
+    font-family: Helvetica, sans-serif;
+    font-size: 48px;
+
+}
+
+h2 {
+    color: orangered;
+}
+
+ul {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
